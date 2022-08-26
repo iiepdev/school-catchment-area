@@ -1,5 +1,6 @@
 # Isochrone-based catchment areas for educational planning
 
+[under revision, 2022-08-26]
 This repository contains the accompanying code for the paper "Isochrone-based catchment areas for educational planning", created by the Development Unit at IIEP-UNESCO. Versions in Jupyter Notebook and R are available.
 
 IIEPdev work is available under the Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) licence (http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this repository, the users accept to be bound by the terms of use of the UNESCO Open Access Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en).
